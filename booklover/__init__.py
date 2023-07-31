@@ -1,0 +1,1 @@
+print('Welcome to the booklover package! We love books and hopefully you do too.')
